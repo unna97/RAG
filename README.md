@@ -17,7 +17,7 @@ conda env create -f environment.yml
 ```
 conda activate D:\anaconda-envs\rag-implements
 ```
-Note: Replace the path with the path to your environment and the name of your environment in the environment.yml file.
+        Note: Replace the path with the path to your environment and the name of your environment in the environment.yml file.
 
 3. Add the .env file and adds it path in the script for variable "env_path". The .env file contains the following variables:
 ```
